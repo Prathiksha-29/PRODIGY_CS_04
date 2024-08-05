@@ -1,0 +1,1 @@
+[Key.esc]hellow[Key.space]world[Key.enter][Key.esc]my[Key.space]name[Key.space]is[Key.space]john[Key.esc]
